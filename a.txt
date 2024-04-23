@@ -1,3 +1,4 @@
 Hello Exercise Checker. Hope you had a good holiday!
 
 Edit: editing in branch B1. Git is a cool program, no doubt.
+Edit 2: editing in branch B3. Hope you liked the little joke I wrote in file d (:
