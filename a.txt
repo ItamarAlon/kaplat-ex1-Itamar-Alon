@@ -1,2 +1,3 @@
 Hello Exercise Checker. Hope you had a good holiday!
-This is file 'a'
+
+Edit: editing in branch B1. Git is a cool program, no doubt.
